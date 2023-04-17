@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=playerId\ dispenser
+comment1.target=Player(int,\ DistributorePalline)
+comment2.params=
+comment2.target=javafx.scene.layout.VBox\ getPlayerNode()
+comment3.params=
+comment3.target=void\ updatePlayerLabel()
+numComments=4
