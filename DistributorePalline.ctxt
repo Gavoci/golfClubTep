@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=DistributorePalline
+comment1.params=primaryStage
+comment1.target=void\ start(javafx.stage.Stage)
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=now
+comment2.target=void\ handle(long)
+comment3.params=now
+comment3.target=void\ handle(long)
+comment4.params=now
+comment4.target=void\ handle(long)
+comment5.params=now
+comment5.target=void\ handle(long)
+comment6.params=now
+comment6.target=void\ handle(long)
+comment7.params=numBalls
+comment7.target=boolean\ dispenseBalls(int)
+comment8.params=numBalls
+comment8.target=void\ returnBalls(int)
+comment9.params=
+comment9.target=void\ updateBallsAvailableLabel()
+numComments=11
